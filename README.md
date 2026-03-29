@@ -74,6 +74,4 @@ The compiled executable will be located in the `dist` folder.
 
 This software is for educational and informational purposes only. It does not constitute financial advice. Data may be subject to slight delays depending on the provider's free tier limits.
 
-<img width="584" height="357" alt="Captura desde 2024-01-19 21-17-24" src="https://github.com/user-attachments/assets/b69a7434-996e-4733-a919-5043e267d9c2" />
-
-
+<img width="740" height="522" alt="Captura desde 2026-03-29 16-32-32" src="https://github.com/user-attachments/assets/892ef074-09ca-4c2d-89b1-a38d16a0363a" />
