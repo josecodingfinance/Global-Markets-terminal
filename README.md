@@ -29,22 +29,24 @@ If you want to run the source code directly, follow these steps:
    git clone [https://github.com/yourusername/trading-console.git](https://github.com/yourusername/trading-console.git)
    cd trading-console
 
-
-   Create and activate a clean virtual environment (Recommended):
-    Bash
+'''
+2. Create and activate a clean virtual environment (Recommended):
+   ```bash
 
     python3 -m venv venv
     source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-    Install the required dependencies:
-    Bash
+```
+3. Install the required dependencies:
+   ```bash
 
     pip install PyQt6 yfinance websocket-client
 
-    Run the application:
-    Bash
+'''
+4. Run the application:
+``` Bash
 
     python consola.py
+'''
 
 📦 Building the Executable
 
