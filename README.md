@@ -55,7 +55,7 @@ python consola.py
 
 ---
 
-##  Building the Executable
+##  Building the executable
 
 To compile the application into a standalone executable (no Python installation required on the host machine):
 
