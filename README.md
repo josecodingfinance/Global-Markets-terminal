@@ -1,8 +1,8 @@
-📈 Global Markets Trading Console
+📈 Global Markets Trading Console 📈
 
 A real-time, asynchronous desktop trading terminal built with Python and PyQt6. This application provides a unified dashboard to monitor global financial markets, including traditional indices, commodities, ETFs, and cryptocurrencies, seamlessly blending WebSocket streams with REST API polling.
 
-✨ Features
+- Features
 Real-Time Crypto Data: Live, tick-by-tick updates for BTC/USDT using Binance WebSockets.
 Global Market Tracking: Automated polling for major indices (S&P 500, DAX 40, IBEX 35), commodities (Gold, WTI Crude), and ETFs (VUAA, VWCE) via Yahoo Finance.
 Asynchronous Architecture: Utilizes Python's QThread to separate UI rendering from data fetching, ensuring a completely freeze-free desktop experience.
@@ -27,7 +27,8 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install PyQt6 yfinance websocket-client
 4. Run the application
 python consola.py
-📦 Building the Executable
+
+📈 Building the Executable
 
 To compile the application into a standalone executable (no Python installation required on the host machine):
 
