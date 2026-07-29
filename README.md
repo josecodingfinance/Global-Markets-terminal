@@ -1,4 +1,4 @@
-# 📈 Global Markets Trading Console 📈  
+#  Global Markets Trading Console 
 
 A real-time, asynchronous desktop trading terminal built with Python and PyQt6. This application provides a unified dashboard to monitor global financial markets, including traditional indices, commodities, ETFs, and cryptocurrencies, seamlessly blending WebSocket streams with REST API polling.
 
@@ -14,7 +14,7 @@ A real-time, asynchronous desktop trading terminal built with Python and PyQt6. 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech 
 
 * **Language:** Python 3
 * **GUI Framework:** PyQt6
@@ -23,7 +23,7 @@ A real-time, asynchronous desktop trading terminal built with Python and PyQt6. 
 
 ---
 
-## 🚀 Installation and Setup
+## Installation and Setup
 
 If you want to run the source code directly, follow these steps:
 
@@ -66,11 +66,11 @@ pyinstaller --noconsole --onefile consola.py
 
 The compiled executable will be located in the `dist` folder.
 
-> ⚠️ Note: The executable is generated for the OS it was built on (e.g., building on Linux creates a Linux binary).
+> Note: The executable is generated for the OS it was built on (e.g., building on Linux creates a Linux binary).
 
 ---
 
-## 📝 Disclaimer
+## Disclaimer
 
 This software is for educational and informational purposes only. It does not constitute financial advice. Data may be subject to slight delays depending on the provider's free tier limits.
 
